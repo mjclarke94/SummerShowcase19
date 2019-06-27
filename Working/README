@@ -1,0 +1,4 @@
+1) Move input files to this directory
+2) List them sequentially in final.txt
+3) To concatenate files run:
+ffmpeg -f concat -safe 0  -i "final.txt" -c copy output.mp4

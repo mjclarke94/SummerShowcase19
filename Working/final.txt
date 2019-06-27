@@ -1,0 +1,6 @@
+file '/Users/matt/repos/SummerShowcase19/Working/Introduction.mp4'
+file '/Users/matt/repos/SummerShowcase19/Working/context.mp4'
+file '/Users/matt/repos/SummerShowcase19/Working/technologyplot.mp4'
+file '/Users/matt/repos/SummerShowcase19/Working/inside2.mp4'
+file '/Users/matt/repos/SummerShowcase19/Working/composition.mp4'
+file '/Users/matt/repos/SummerShowcase19/Working/interatomic.mp4'
